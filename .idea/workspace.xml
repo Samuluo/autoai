@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4da4a019-408e-4023-9483-455b52c224b9" name="Default Changelist" comment="" />
+    <list default="true" id="4da4a019-408e-4023-9483-455b52c224b9" name="Default Changelist" comment="初次提交">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoload.js" beforeDir="false" afterPath="$PROJECT_DIR$/autoload.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +14,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Peter Hai\Downloads\Compressed\live2d-widget-master\live2d-widget-master\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="23GqSEQZYdV9FHQUTBbNwa1iwIy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -18,8 +30,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -43,17 +57,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641370769150</updated>
-      <workItem from="1641370775305" duration="4517000" />
+      <workItem from="1641370775305" duration="6909000" />
+      <workItem from="1641388630672" duration="273000" />
     </task>
+    <task id="LOCAL-00001" summary="初次提交">
+      <created>1641383469434</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641383469434</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="初次提交" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="154" y="0" key="CommitChangelistDialog2" timestamp="1641383645902">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="154" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1641383645902" />
     <state x="421" y="124" key="FileChooserDialogImpl" timestamp="1641383264562">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="421" y="124" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1641383264562" />
+    <state x="144" y="25" key="SettingsEditor" timestamp="1641388482698">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="144" y="25" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1641388482698" />
+    <state x="233" y="116" key="Vcs.Push.Dialog.v2" timestamp="1641388792557">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1641388792557" />
   </component>
 </project>
